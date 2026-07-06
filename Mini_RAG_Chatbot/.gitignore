@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+rag_env/
+medico_env/
+
+# VS Code
+.vscode/
+
+# FAISS database
+database/
+
+# Logs
+*.log
